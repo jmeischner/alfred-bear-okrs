@@ -5,10 +5,10 @@ This should serve as a starting point to build an own template to start creating
 
 ## How it looks
 With the *Olive Dunk* theme it could look like
-![Screenshot](https://github.com/jmeischner/alfred-bear-okrs/blob/main/screenshot.png?raw=true)
+![Screenshot](https://github.com/jmeischner/alfred-bear-okrs/blob/main/screenshot.png?raw=true | width=200)
 
 And as a small tidbit there are two "buttons" to add an objective and a key result.
-![Buttons](https://github.com/jmeischner/alfred-bear-okrs/blob/main/buttons.gif?raw=true)
+![Buttons](https://github.com/jmeischner/alfred-bear-okrs/blob/main/buttons.gif?raw=true | width=200)
 
 ## Possible Placeholders for the Markdown Template
 - **NEXT_QUARTER**
