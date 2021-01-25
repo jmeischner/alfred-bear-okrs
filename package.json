@@ -1,0 +1,9 @@
+{
+  "name": "alfred-bear-okrs",
+  "version": "1.0.0",
+  "description": "A template to start creating OKRs for the upcoming interval to use in combination with alfred-bear workflow",
+  "main": "script.js",
+  "author": "Jan Meischner",
+  "license": "MIT",
+  "private": false
+}
