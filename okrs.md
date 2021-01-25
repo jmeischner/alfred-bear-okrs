@@ -1,4 +1,4 @@
-# OKRs Q{{NEXT_QUARTER}}/{{CURRENT_YEAR}}
+# OKRs Q{{NEXT_QUARTER}}/{{YEAR}}
 ---
 #2 - areas/vision/okrs#
 ---
