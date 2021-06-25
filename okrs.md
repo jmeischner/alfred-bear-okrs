@@ -2,8 +2,6 @@
 ---
 <- Back to [[{{OKR_OVERVIEW_TITLE}}]]
 ---
-::[Add Objective](bear://x-callback-url/add-text?selected=yes&mode=prepend&new_line=yes&text={{O_TEXT}}&token={{BEAR_TOKEN}}):: -- ::[Add Key Result](bear://x-callback-url/add-text?selected=yes&mode=prepend&new_line=yes&text={{KR_TEXT}}&token={{BEAR_TOKEN}})::
----
 ### OKRs
 
 ---
