@@ -20,6 +20,9 @@
 | {date +70D: ww}   | 
 | {date +77D: ww}   | 
 ---
+### Auswertung
+**Nicht vergessen!**
+---
 ::Objective::: **WHAT** is to be achieved, no more and no less
 ::Key Results::: benchmark and monitor **HOW** we get to the objective
 
